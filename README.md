@@ -1,4 +1,4 @@
-# Demoblaze Test Automation Framework
+# Google Search Test Automation Framework
 
 ## Introduction
 
