@@ -17,25 +17,26 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jpiedrar/wdio.git"
+    "url": "git+https://github.com/jpiedrar/beonTech.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/jpiedrar/wdio/issues"
+    "url": "https://github.com/jpiedrar/beonTech/issues"
   },
-  "homepage": "https://github.com/jpiedrar/wdio#readme",
+  "homepage": "https://github.com/jpiedrar/beonTech#readme",
   "dependencies": {
     "@wdio/cli": "^7.20.9",
     "esm": "^3.2.25",
     "esm-utils": "^4.0.0",
-    "expect.js": "^0.3.1"
+    "expect.js": "^0.3.1",
+    "npm-check-updates": "^16.14.6"
   },
   "devDependencies": {
     "@wdio/local-runner": "^7.20.9",
     "@wdio/mocha-framework": "^7.20.7",
     "@wdio/spec-reporter": "^7.20.8",
-    "chromedriver": "^114.0.3",
+    "chromedriver": "^118.0.1",
     "mocha": "^10.0.0",
     "wdio-chromedriver-service": "^7.3.2",
     "wdio-wait-for": "^2.2.6"
